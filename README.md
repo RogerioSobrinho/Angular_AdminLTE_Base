@@ -1,1 +1,2 @@
-# Angular_AdminLTE_Base
+# Angular AdminLTE Base
+Angular Project structure based  AdminLTE for using in personal projects
